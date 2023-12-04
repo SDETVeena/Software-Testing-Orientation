@@ -1,8 +1,9 @@
-# My First Blog Post
+# Software testing orientation
 
-This is some text for my blog post using **Markdown**!
+This is my first blog on github and hope you like it. so lets start learning fundamentals 
 
-## Subheading
+## What is testing 
 
-- Bullet point 1
-- Bullet point 2
+- testing in real life
+- testing in softwares
+- 
